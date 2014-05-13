@@ -22,9 +22,6 @@ Just like you use the other Library, What's different is you should download Sul
 For a non-Arduino platform, what you need is xxx.h and xxx.cpp(you can change it to xxx.c while your compiler can't support c++), the other files like xxx_Arduino.h and examples is for Arduino, you can just delete them.
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Grove_OLED_Display_128X64)](https://github.com/igrigorik/ga-beacon)
-
-
 ----
 This software is written by Loovee for seeed studio<br>
 and is licensed under [The MIT License](http://opensource.org/licenses/mit-license.php). Check License.txt for more information.<br>
